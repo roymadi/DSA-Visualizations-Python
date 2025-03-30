@@ -1,0 +1,9 @@
+customtkinter
+pygame
+pygame_gui
+networkx
+matplotlib
+numpy
+scikit-learn
+ttkbootstrap
+Pillow
